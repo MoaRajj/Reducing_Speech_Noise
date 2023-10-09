@@ -17,6 +17,3 @@ Furthermore, since certain components of the speech signals extended beyond the 
 
 ## Challenges:
 The most daunting aspect of noise reduction typically revolves around determining the precise parameters and thresholds for the gating process. This entails careful selection of window sizes, overlap, and the establishment of threshold levels to differentiate between noise and signal components within the spectral domain. Moreover, managing complex audio signals characterized by diverse noise characteristics and ensuring that the gating process doesn't compromise the quality of the desired signal can present significant challenges.2
-
-## Relevance:
-In scenarios involving voice recognition or audio-based control systems, noise reduction holds substantial significance. The elimination of background noise from audio signals can markedly enhance the accuracy of voice commands and elevate the overall user experience in automated systems.
